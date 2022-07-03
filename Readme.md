@@ -118,5 +118,5 @@ git commit -m "必要的备注"
 查看别名 git remote -v  
 新增别名 git remote add [别名] [远程库地址]  
 
-## 推动操作
+## 推送操作
 git push [远程库地址or别名]  分支
