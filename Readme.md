@@ -117,7 +117,7 @@ git commit -m "必要的备注"
 通过Git本地将地址保存，即命名别名  
 查看别名 git remote -v  
 新增别名 git remote add [别名] [远程库地址]  
-dsfsdfsdfsdf 
+
 ## 推送操作
 
 git push [远程库地址or别名]  分支
